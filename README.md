@@ -1,6 +1,6 @@
 # vue-cli-plugin-build-watch
 
-![npm](https://img.shields.io/npm/v/vue-cli-plugin-build-watch.svg)](https://www.npmjs.com/package/vue-cli-plugin-build-watch)
+[![npm](https://img.shields.io/npm/v/vue-cli-plugin-build-watch.svg)](https://www.npmjs.com/package/vue-cli-plugin-build-watch)
 [![vue-cli3](https://img.shields.io/badge/vue--cli-3.x-brightgreen.svg)](https://github.com/vuejs/vue-cli)
 
 **:rocket: Start your Vue application in webpack watch-mode!**
