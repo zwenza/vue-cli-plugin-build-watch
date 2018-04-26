@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli-plugin-build-watch",
+  "version": "1.0.0",
+  "description": "A vue-cli 3.0 plugin to start webpack in watch mode",
+  "main": "index.js",
+  "peerDependencies": {
+    "@vue/cli-shared-utils": "^3.0.0-beta.6"
+  },
+  "author": "David Jöch (david.joech@gmail.com)",
+  "license": "ISC"
+}
